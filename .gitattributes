@@ -1,0 +1,8 @@
+# Garante UTF-8 para texto (evita problema de encoding com acentos, ex.: André)
+* text eol=lf
+*.html text charset=utf-8
+*.css text charset=utf-8
+*.js text charset=utf-8
+*.md text charset=utf-8
+*.ps1 text charset=utf-8
+*.svg text charset=utf-8
